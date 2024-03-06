@@ -7,6 +7,7 @@ import java.util.*;
 
 import com.kursx.parser.fb2.*;
 
+/**Using inverted dictionary*/
 public class Dictionary {
 
     // TreeMap to store the inverted index with zones
@@ -125,9 +126,9 @@ public class Dictionary {
 
         // Write dictionary information to a file
         PrintWriter printWriter = new PrintWriter(new BufferedWriter(new FileWriter("src/results/dictionary.txt")));
-        printWriter.write("COLLECTION SIZE: " + sizeCollection + " bytes \n");
-        printWriter.write("WORDS IN COLLECTION: " + wordsInCollection + "\n");
-        printWriter.write("WORDS IN DICTIONARY: " + wordsInDictionary + "\n");
+        printWriter.write("Collection size: " + sizeCollection + " bytes;\n");
+        printWriter.write("Words in collection: " + wordsInCollection + ";\n");
+        printWriter.write("Words in dictionary: " + wordsInDictionary + ";\n");
         printWriter.write("\n \n");
         for (String word : dictionary.keySet()) {
             printWriter.println(word);
