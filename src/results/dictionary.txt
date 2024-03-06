@@ -1,0 +1,5129 @@
+COLLECTION SIZE: 1299640 bytes 
+WORDS IN COLLECTION: 48732
+WORDS IN DICTIONARY: 2556
+
+ 
+1984
+   title      [0]
+a
+   body      [0, 1, 2, 3]
+aaronson
+   body      [0]
+able
+   body      [0, 2]
+about
+   body      [0, 1, 2, 3]
+above
+   body      [0, 2]
+absence
+   body      [0]
+absolutely
+   body      [3]
+absurd
+   body      [3]
+accept
+   body      [0]
+acceptance
+   body      [0]
+accepted
+   body      [2]
+accident
+   body      [0, 3]
+across
+   body      [0, 2, 3]
+act
+   body      [0, 3]
+acted
+   body      [3]
+acting
+   body      [3]
+actions
+   body      [0]
+active
+   body      [0]
+activities
+   body      [0]
+actress
+   body      [3]
+actually
+   body      [0]
+added
+   body      [0, 3]
+address
+   body      [0, 3]
+adjectives
+   body      [0]
+admiring
+   body      [0]
+adrian
+   body      [3]
+advice
+   body      [3]
+aeroplanes
+   body      [0]
+afraid
+   body      [0, 1, 2, 3]
+africa
+   body      [0]
+after
+   body      [0, 1, 2, 3]
+afternoon
+   body      [0, 2, 3]
+afterwards
+   body      [0]
+again
+   body      [0, 1, 2, 3]
+against
+   body      [0, 1, 2, 3]
+agatha
+   body      [3]
+age
+   body      [0, 3]
+ago
+   body      [0, 1, 2, 3]
+agree
+   body      [0, 2, 3]
+agreed
+   body      [0, 2]
+agrees
+   body      [3]
+ah
+   body      [0]
+ahead
+   body      [0]
+aim
+   body      [0]
+aims
+   body      [0]
+air
+   body      [0, 2, 3]
+alan
+   body      [3]
+alive
+   body      [0, 2]
+all
+   body      [0, 1, 2, 3]
+allan
+   author      [1]
+allowed
+   body      [0]
+allows
+   body      [0]
+almost
+   body      [0, 1, 2, 3]
+alone
+   body      [0, 2, 3]
+along
+   body      [0, 2]
+already
+   body      [0, 2, 3]
+also
+   body      [0, 1]
+although
+   body      [0]
+always
+   body      [0, 1, 2, 3]
+am
+   body      [0, 1, 2, 3]
+among
+   body      [0, 3]
+ampleforth
+   body      [0]
+amsterdam
+   body      [2]
+an
+   body      [0, 1, 2, 3]
+and
+   body      [0, 1, 2, 3]
+anger
+   body      [2]
+angrily
+   body      [2, 3]
+angry
+   body      [0, 1, 2, 3]
+animal
+   body      [0, 1, 2]
+animals
+   body      [0, 1, 2]
+annoy
+   body      [3]
+annoyed
+   body      [3]
+another
+   body      [0, 1, 2, 3]
+answer
+   body      [0, 1, 2, 3]
+answered
+   body      [0, 1, 2, 3]
+answering
+   body      [2]
+answers
+   body      [2]
+any
+   body      [0, 1, 2, 3]
+anybody
+   body      [0]
+anymore
+   body      [1]
+anyone
+   body      [0, 3]
+anything
+   body      [0, 1, 2, 3]
+anywhere
+   body      [0, 1, 2, 3]
+apologize
+   body      [3]
+appear
+   body      [0]
+appearance
+   body      [3]
+appeared
+   body      [0, 3]
+appears
+   body      [3]
+april
+   body      [0, 2]
+are
+   body      [0, 1, 2, 3]
+area
+   body      [0]
+aren
+   body      [1]
+argue
+   body      [0, 3]
+argument
+   body      [3]
+arm
+   body      [0, 1, 2, 3]
+armchair
+   body      [0]
+armies
+   body      [2]
+arms
+   body      [0, 2]
+army
+   body      [0]
+around
+   body      [0, 2, 3]
+arrange
+   body      [0]
+arranged
+   body      [0]
+arrive
+   body      [0]
+arrived
+   body      [0, 2, 3]
+art
+   body      [0, 3]
+arthur
+   body      [2]
+article
+   body      [0]
+artist
+   body      [3]
+as
+   body      [0, 1, 2, 3]
+ashamed
+   body      [3]
+ask
+   body      [0, 3]
+asked
+   body      [0, 1, 2, 3]
+asking
+   body      [0, 2, 3]
+asks
+   body      [3]
+asleep
+   body      [0, 2]
+at
+   body      [0, 1, 2, 3]
+ate
+   body      [0]
+attack
+   body      [0, 2]
+attacked
+   body      [0]
+attacks
+   body      [0]
+attendance
+   body      [0]
+attractive
+   body      [0]
+audley
+   body      [3]
+august
+   body      [2]
+aunt
+   body      [3]
+autumn
+   body      [2, 3]
+awake
+   body      [0, 3]
+away
+   body      [0, 1, 2, 3]
+awful
+   body      [3]
+awfully
+   body      [3]
+axe
+   body      [1]
+b
+   body      [0]
+baby
+   body      [0]
+back
+   body      [0, 1, 2, 3]
+bad
+   body      [0, 1, 3]
+badly
+   body      [0, 3]
+bag
+   body      [0, 2, 3]
+bags
+   body      [2]
+balcony
+   body      [2]
+bars
+   body      [0]
+basil
+   body      [3]
+bath
+   body      [0]
+be
+   body      [0, 1, 2, 3]
+beard
+   body      [0, 3]
+beat
+   body      [0]
+beaten
+   body      [0]
+beating
+   body      [0]
+beautiful
+   body      [0, 1, 2, 3]
+beautifully
+   body      [3]
+beauty
+   body      [0, 3]
+became
+   body      [0, 1, 2, 3]
+because
+   body      [0, 1, 2, 3]
+become
+   body      [0, 2, 3]
+becomes
+   body      [2, 3]
+becoming
+   body      [0, 1, 2]
+bed
+   body      [0, 1, 2, 3]
+bedroom
+   body      [0, 2, 3]
+bedrooms
+   body      [2]
+bed…
+   body      [3]
+been
+   body      [0, 1, 2, 3]
+before
+   body      [0, 1, 2, 3]
+began
+   body      [0, 1, 2, 3]
+begin
+   body      [0, 2, 3]
+beginning
+   body      [0, 1, 2, 3]
+begun
+   body      [2, 3]
+behaved
+   body      [0, 3]
+behind
+   body      [0, 2, 3]
+being
+   body      [0, 2, 3]
+beings
+   body      [0]
+belief
+   body      [0, 3]
+beliefs
+   body      [0]
+believe
+   body      [0, 1, 2, 3]
+believed
+   body      [0]
+bell
+   body      [3]
+belong
+   body      [0]
+belonged
+   body      [0]
+belonging
+   body      [3]
+belongs
+   body      [0]
+below
+   body      [0, 2, 3]
+belt
+   body      [0]
+bent
+   body      [0, 3]
+beside
+   body      [0, 2, 3]
+best
+   body      [0, 1, 3]
+betray
+   body      [0]
+betrayal
+   body      [0]
+betrayed
+   body      [0]
+betraying
+   body      [0]
+better
+   body      [0, 1, 2, 3]
+between
+   body      [0, 3]
+beyond
+   body      [0]
+big
+   body      [0, 2]
+bigger
+   body      [0, 2]
+biggest
+   body      [0]
+bird
+   body      [2, 3]
+birds
+   body      [0, 1, 2, 3]
+birth
+   body      [0]
+birthday
+   body      [3]
+bistritz
+   body      [2]
+bit
+   body      [0, 1, 3]
+bite
+   body      [2]
+biting
+   body      [3]
+bits
+   body      [0]
+bitter
+   body      [3]
+black
+   body      [0, 1, 2]
+   title      [1]
+blackwhite
+   body      [0]
+blade
+   body      [0]
+blades
+   body      [0]
+blame
+   body      [3]
+blanket
+   body      [0]
+blew
+   body      [0, 2]
+blind
+   body      [0]
+blinding
+   body      [0]
+blood
+   body      [0, 1, 2, 3]
+blown
+   body      [3]
+blue
+   body      [0, 3]
+boat
+   body      [2]
+body
+   body      [0, 1, 2, 3]
+bomb
+   body      [0]
+bombs
+   body      [0]
+bone
+   body      [0]
+bones
+   body      [0]
+book
+   body      [0, 2, 3]
+books
+   body      [0, 1, 2, 3]
+boot
+   body      [0, 3]
+boots
+   body      [0]
+bored
+   body      [3]
+borgo
+   body      [2]
+boring
+   body      [0, 3]
+born
+   body      [0]
+borrow
+   body      [0]
+both
+   body      [0, 1, 2, 3]
+bottle
+   body      [0]
+bottles
+   body      [1, 3]
+bottom
+   body      [3]
+bought
+   body      [0, 1, 2]
+bowl
+   body      [0]
+box
+   body      [0, 1, 2, 3]
+boxes
+   body      [2]
+boy
+   body      [0, 1, 3]
+boyhood
+   body      [3]
+brain
+   body      [0]
+bram
+   author      [2]
+brandon
+   body      [3]
+brave
+   body      [0]
+braver
+   body      [0]
+bravest
+   body      [3]
+bread
+   body      [0, 2]
+breakfast
+   body      [0, 2, 3]
+breaking
+   body      [0, 1, 3]
+breath
+   body      [2, 3]
+breathe
+   body      [0, 2]
+breathed
+   body      [0, 3]
+brien
+   body      [0]
+bright
+   body      [0, 2, 3]
+brighter
+   body      [0, 3]
+brightly
+   body      [2]
+bring
+   body      [0, 2]
+bringing
+   body      [0, 1]
+bristol
+   body      [3]
+british
+   body      [3]
+broke
+   body      [0, 2, 3]
+broken
+   body      [0, 2, 3]
+brother
+   body      [0]
+brotherhood
+   body      [0]
+brought
+   body      [0, 1, 2, 3]
+brown
+   body      [0, 3]
+brushed
+   body      [3]
+brushes
+   body      [3]
+budapest
+   body      [2]
+building
+   body      [0, 1, 2, 3]
+buildings
+   body      [0]
+built
+   body      [0, 1, 3]
+buried
+   body      [1, 2]
+burn
+   body      [1, 3]
+burned
+   body      [0, 1, 2, 3]
+burning
+   body      [1, 2]
+burnt
+   body      [3]
+burying
+   body      [1]
+bus
+   body      [3]
+business
+   body      [0, 2, 3]
+busy
+   body      [0, 2, 3]
+but
+   body      [0, 1, 2, 3]
+buttons
+   body      [0]
+buy
+   body      [0, 2, 3]
+by
+   body      [0, 1, 2, 3]
+cafe
+   body      [0]
+call
+   body      [0, 3]
+called
+   body      [0, 1, 2, 3]
+calls
+   body      [2]
+calm
+   body      [3]
+calmly
+   body      [1]
+came
+   body      [0, 1, 2, 3]
+camp
+   body      [0]
+campbell
+   body      [3]
+can
+   body      [0, 1, 2, 3]
+cannot
+   body      [0, 1, 2, 3]
+canteen
+   body      [0]
+care
+   body      [0, 2, 3]
+cared
+   body      [0, 3]
+careful
+   body      [1, 3]
+carefully
+   body      [0, 1, 2, 3]
+careless
+   body      [0]
+carpathian
+   body      [2]
+carpet
+   body      [0, 3]
+carpeted
+   body      [0]
+carriage
+   body      [2]
+carried
+   body      [0, 2, 3]
+carry
+   body      [2, 3]
+carrying
+   body      [0, 2]
+cart
+   body      [2]
+case
+   body      [0]
+castle
+   body      [2]
+cat
+   body      [1]
+   title      [1]
+catch
+   body      [3]
+catherine
+   body      [2]
+cats
+   body      [1]
+caught
+   body      [0, 1, 2, 3]
+cause
+   body      [0]
+caused
+   body      [0]
+causing
+   body      [0, 3]
+ceilinged
+   body      [0]
+cell
+   body      [0]
+cellar
+   body      [1]
+cells
+   body      [0]
+centre
+   body      [0, 3]
+centuries
+   body      [0]
+century
+   body      [0]
+certain
+   body      [0, 3]
+certainly
+   body      [0, 3]
+chain
+   body      [2]
+chair
+   body      [0, 1, 2, 3]
+chairs
+   body      [0]
+chance
+   body      [0, 2]
+change
+   body      [0, 3]
+changed
+   body      [0, 2, 3]
+changes
+   body      [0]
+changing
+   body      [0, 1, 2, 3]
+chapel
+   body      [2]
+chapter
+   body      [0, 2, 3]
+charm
+   body      [3]
+charming
+   body      [3]
+charmingly
+   body      [3]
+charrington
+   body      [0]
+chasing
+   body      [0]
+cheap
+   body      [0]
+checked
+   body      [0]
+cheek
+   body      [3]
+cheeks
+   body      [3]
+cheerful
+   body      [0]
+cheese
+   body      [0]
+chemistry
+   body      [3]
+chest
+   body      [0, 1, 2]
+chestnut
+   body      [0]
+child
+   body      [0, 1, 2, 3]
+childhood
+   body      [3]
+childish
+   body      [3]
+children
+   body      [0, 2]
+chocolate
+   body      [0, 3]
+choice
+   body      [0]
+choose
+   body      [0, 3]
+choosing
+   body      [3]
+chopin
+   body      [3]
+chosen
+   body      [3]
+church
+   body      [0, 2]
+churches
+   body      [0]
+churchyard
+   body      [2]
+cigarette
+   body      [0, 3]
+cigarettes
+   body      [0, 3]
+cinema
+   body      [0]
+circle
+   body      [2]
+city
+   body      [0, 2]
+clean
+   body      [3]
+cleaned
+   body      [1, 3]
+cleaning
+   body      [1]
+clear
+   body      [0, 2, 3]
+clearly
+   body      [0, 1, 2, 3]
+clever
+   body      [0, 1, 3]
+climb
+   body      [2]
+climbed
+   body      [0, 2, 3]
+climbing
+   body      [3]
+cloak
+   body      [2]
+cloaks
+   body      [2]
+clock
+   body      [0, 2, 3]
+clocks
+   body      [0]
+close
+   body      [0, 1, 2, 3]
+closed
+   body      [0, 2, 3]
+closely
+   body      [0, 3]
+closer
+   body      [0, 1, 2, 3]
+closing
+   body      [3]
+clothes
+   body      [0, 2]
+cloud
+   body      [0, 2]
+clouds
+   body      [2]
+club
+   body      [0, 3]
+coach
+   body      [2]
+coat
+   body      [0, 3]
+coats
+   body      [3]
+coffee
+   body      [0, 3]
+coffin
+   body      [2]
+coins
+   body      [2]
+cold
+   body      [0, 2, 3]
+coldly
+   body      [3]
+collar
+   body      [3]
+collect
+   body      [0]
+colour
+   body      [0, 3]
+coloured
+   body      [0, 2]
+colourless
+   body      [0]
+colours
+   body      [3]
+come
+   body      [0, 1, 2, 3]
+comes
+   body      [0]
+comfortable
+   body      [0, 1]
+coming
+   body      [0, 2, 3]
+common
+   body      [0]
+compared
+   body      [3]
+complete
+   body      [0, 1]
+completely
+   body      [0, 1, 2, 3]
+complicated
+   body      [0]
+comrade
+   body      [0]
+comrades
+   body      [0]
+confident
+   body      [0]
+congratulate
+   body      [3]
+contains
+   body      [0]
+continue
+   body      [0]
+continued
+   body      [0, 1, 3]
+continues
+   body      [0]
+continuous
+   body      [0]
+control
+   body      [0]
+controls
+   body      [0]
+convenient
+   body      [0]
+conversation
+   body      [0, 3]
+cool
+   body      [0]
+copied
+   body      [3]
+copies
+   body      [0]
+copy
+   body      [0]
+corner
+   body      [0, 3]
+correctly
+   body      [0]
+corrupt
+   body      [3]
+corrupted
+   body      [3]
+corruption
+   body      [3]
+cost
+   body      [3]
+couch
+   body      [2]
+cough
+   body      [0]
+could
+   body      [0, 1, 2, 3]
+couldn
+   body      [0, 3]
+count
+   body      [0, 2]
+countries
+   body      [0, 2]
+country
+   body      [0, 2, 3]
+course
+   body      [0, 1, 2, 3]
+cover
+   body      [3]
+covered
+   body      [0, 2, 3]
+covering
+   body      [3]
+crash
+   body      [0, 3]
+crashing
+   body      [0]
+cream
+   body      [0]
+cried
+   body      [0, 2, 3]
+cries
+   body      [0, 3]
+crime
+   body      [0]
+crimes
+   body      [0]
+crimestop
+   body      [0]
+criminal
+   body      [0]
+criticising
+   body      [0]
+criticize
+   body      [0]
+cross
+   body      [2]
+crossed
+   body      [0, 2, 3]
+crowd
+   body      [0, 1, 2, 3]
+crowded
+   body      [0, 2, 3]
+cruel
+   body      [2, 3]
+crueller
+   body      [3]
+cruelly
+   body      [3]
+cruelty
+   body      [3]
+cry
+   body      [0, 1, 2, 3]
+crying
+   body      [0, 2, 3]
+cup
+   body      [0, 3]
+cupboard
+   body      [1, 3]
+cupboards
+   body      [3]
+cups
+   body      [0]
+cured
+   body      [0]
+curtain
+   body      [3]
+curtains
+   body      [3]
+curved
+   body      [3]
+curzon
+   body      [3]
+cut
+   body      [0, 1, 2]
+cutting
+   body      [1]
+d
+   body      [0, 2]
+daily
+   body      [0]
+damage
+   body      [0]
+dance
+   body      [0]
+danger
+   body      [0, 2, 3]
+dangerous
+   body      [0, 2, 3]
+danube
+   body      [2]
+dare
+   body      [0, 2]
+dared
+   body      [0]
+daren
+   body      [0]
+dark
+   body      [0, 1, 2, 3]
+darkened
+   body      [3]
+darkest
+   body      [1]
+darkness
+   body      [2, 3]
+darling
+   body      [2]
+date
+   body      [0]
+dated
+   body      [2]
+dates
+   body      [0, 2]
+daughter
+   body      [0]
+dawn
+   body      [2]
+day
+   body      [0, 1, 2, 3]
+daylight
+   body      [2]
+days
+   body      [0, 1, 2, 3]
+dead
+   body      [0, 1, 2, 3]
+dear
+   body      [0, 1, 2, 3]
+dearest
+   body      [0, 3]
+death
+   body      [0, 1, 2, 3]
+deaths
+   body      [0]
+decide
+   body      [2, 3]
+decided
+   body      [1, 2, 3]
+decision
+   body      [0]
+decisions
+   body      [0]
+decisive
+   body      [0]
+deep
+   body      [0, 2, 3]
+deeply
+   body      [1, 3]
+defended
+   body      [0]
+definite
+   body      [0]
+definitely
+   body      [0]
+delay
+   body      [0]
+delight
+   body      [3]
+delighted
+   body      [3]
+demanded
+   body      [0]
+demanding
+   body      [0]
+denied
+   body      [0]
+department
+   body      [0]
+describe
+   body      [1, 3]
+described
+   body      [3]
+describes
+   body      [0]
+deserved
+   body      [0]
+desire
+   body      [0]
+desk
+   body      [0]
+destroy
+   body      [0, 2, 3]
+destroyed
+   body      [0, 2, 3]
+destroying
+   body      [0]
+detail
+   body      [0]
+details
+   body      [0]
+dial
+   body      [0]
+diary
+   body      [0, 3]
+dictionaries
+   body      [0]
+dictionary
+   body      [0, 2]
+did
+   body      [0, 1, 2, 3]
+didn
+   body      [0, 1, 2, 3]
+die
+   body      [0, 1, 2, 3]
+died
+   body      [0, 2, 3]
+dies
+   body      [2]
+difference
+   body      [0]
+different
+   body      [0, 1, 3]
+differently
+   body      [3]
+difficult
+   body      [0, 1, 2, 3]
+difficulty
+   body      [0]
+dining
+   body      [3]
+dinner
+   body      [2, 3]
+direction
+   body      [0, 3]
+dirty
+   body      [0, 1, 3]
+disappear
+   body      [0]
+disappearance
+   body      [3]
+disappeared
+   body      [0, 2]
+disaster
+   body      [3]
+disbelief
+   body      [0]
+disbelieving
+   body      [0]
+discover
+   body      [0]
+discovered
+   body      [0, 3]
+discussing
+   body      [3]
+dishes
+   body      [0]
+dislike
+   body      [0, 1]
+disliked
+   body      [0]
+disobey
+   body      [0]
+disobeyed
+   body      [0]
+distance
+   body      [3]
+distant
+   body      [3]
+do
+   body      [0, 1, 2, 3]
+doctor
+   body      [2]
+does
+   body      [0, 2, 3]
+doesn
+   body      [0, 3]
+dog
+   body      [0, 1, 2]
+doing
+   body      [0, 1, 2, 3]
+dollar
+   body      [0]
+dollars
+   body      [0]
+don
+   body      [0, 2, 3]
+done
+   body      [0, 3]
+door
+   body      [0, 1, 2, 3]
+doors
+   body      [2, 3]
+dorian
+   body      [3]
+   title      [3]
+double
+   body      [0]
+doublethink
+   body      [0]
+doubt
+   body      [3]
+down
+   body      [0, 1, 2, 3]
+dracula
+   body      [2]
+   title      [2]
+drank
+   body      [0, 2]
+drawer
+   body      [0]
+drawing
+   body      [3]
+dream
+   body      [0, 2, 3]
+dreamed
+   body      [0]
+dreaming
+   body      [2]
+dreams
+   body      [1, 2, 3]
+dreamy
+   body      [0, 3]
+dress
+   body      [0, 2, 3]
+dressed
+   body      [0, 2, 3]
+drew
+   body      [3]
+dried
+   body      [1]
+drink
+   body      [0, 1, 2, 3]
+drinking
+   body      [0, 1, 2, 3]
+dripping
+   body      [2]
+driver
+   body      [2]
+dropped
+   body      [2]
+dropping
+   body      [0]
+drove
+   body      [2]
+drunk
+   body      [2, 3]
+dry
+   body      [1]
+dull
+   body      [0]
+during
+   body      [0, 1, 2, 3]
+dust
+   body      [0, 2, 3]
+duty
+   body      [0]
+dying
+   body      [0, 2]
+e
+   body      [0, 1, 2, 3]
+each
+   body      [0, 2, 3]
+ear
+   body      [0]
+earlier
+   body      [0]
+early
+   body      [0, 2, 3]
+earnings
+   body      [0]
+ears
+   body      [0]
+earth
+   body      [0, 1, 2]
+easier
+   body      [0, 2]
+easily
+   body      [0, 1, 2, 3]
+east
+   body      [2, 3]
+eastasia
+   body      [0]
+eastasian
+   body      [0]
+eastern
+   body      [2]
+eat
+   body      [0, 2, 3]
+eaten
+   body      [0, 2]
+eaters
+   body      [0]
+eating
+   body      [2, 3]
+eats
+   body      [0]
+economy
+   body      [0]
+edgar
+   author      [1]
+edition
+   body      [0]
+effect
+   body      [3]
+eight
+   body      [0, 2, 3]
+eighteen
+   body      [0, 3]
+eighth
+   body      [3]
+eighty
+   body      [0]
+either
+   body      [0, 1, 3]
+elbow
+   body      [0]
+electric
+   body      [0]
+electricity
+   body      [0]
+eleven
+   body      [0, 3]
+eleventh
+   body      [0]
+else
+   body      [0, 1]
+emmanuel
+   body      [0]
+emotionless
+   body      [0]
+emotions
+   body      [0]
+empty
+   body      [0, 2]
+end
+   body      [0, 1, 2, 3]
+ended
+   body      [0, 3]
+ending
+   body      [3]
+endless
+   body      [0]
+endlessly
+   body      [0]
+ends
+   body      [1]
+enemies
+   body      [0, 1, 2, 3]
+enemy
+   body      [0, 1, 2]
+england
+   body      [2, 3]
+english
+   body      [0, 1, 2, 3]
+englishman
+   body      [2, 3]
+enjoy
+   body      [0, 3]
+enjoyed
+   body      [0, 1, 2, 3]
+enormous
+   body      [0, 3]
+enormously
+   body      [3]
+enough
+   body      [0, 3]
+enter
+   body      [2, 3]
+entered
+   body      [0, 2, 3]
+entertainment
+   body      [0]
+enthusiastic
+   body      [0]
+envelopes
+   body      [2]
+equal
+   body      [0]
+equality
+   body      [0]
+equally
+   body      [0]
+equipment
+   body      [0]
+er
+   body      [0]
+escape
+   body      [0, 1, 2]
+escaped
+   body      [0]
+especially
+   body      [0]
+eurasia
+   body      [0]
+eurasian
+   body      [0]
+eurasians
+   body      [0]
+europe
+   body      [2]
+even
+   body      [0, 1, 2, 3]
+evening
+   body      [0, 1, 2, 3]
+evenings
+   body      [0]
+ever
+   body      [0, 1, 2, 3]
+every
+   body      [0, 1, 2, 3]
+everybody
+   body      [0]
+everyone
+   body      [0, 1, 2, 3]
+everything
+   body      [0, 1, 2, 3]
+everywhere
+   body      [0, 1]
+evil
+   body      [1]
+exact
+   body      [0, 3]
+exactly
+   body      [0, 3]
+examination
+   body      [0]
+examined
+   body      [2, 3]
+example
+   body      [0]
+excellent
+   body      [0]
+except
+   body      [0, 1, 2, 3]
+excited
+   body      [1, 2]
+excitedly
+   body      [3]
+exciting
+   body      [0, 1, 2, 3]
+excuse
+   body      [0]
+exhibit
+   body      [3]
+exhibiting
+   body      [3]
+exist
+   body      [0]
+existed
+   body      [0]
+existence
+   body      [0]
+exists
+   body      [0]
+expect
+   body      [0]
+expected
+   body      [0]
+expensive
+   body      [0]
+experienced
+   body      [0]
+experiences
+   body      [0]
+explain
+   body      [0, 1, 3]
+explained
+   body      [0, 2, 3]
+explanation
+   body      [3]
+explosion
+   body      [0]
+extra
+   body      [0]
+extraordinarily
+   body      [3]
+extraordinary
+   body      [3]
+eye
+   body      [0, 1]
+eyed
+   body      [0]
+eyes
+   body      [0, 1, 2, 3]
+face
+   body      [0, 1, 2, 3]
+facecrime
+   body      [0]
+faced
+   body      [0, 3]
+faces
+   body      [0, 2, 3]
+facing
+   body      [0]
+fact
+   body      [3]
+factories
+   body      [0]
+fail
+   body      [0]
+failed
+   body      [2]
+failure
+   body      [3]
+fainted
+   body      [2]
+fair
+   body      [0, 3]
+fall
+   body      [0, 1]
+fallen
+   body      [0, 2]
+falling
+   body      [0, 1, 2, 3]
+falls
+   body      [3]
+false
+   body      [0]
+families
+   body      [3]
+family
+   body      [0, 1, 2, 3]
+famous
+   body      [0]
+far
+   body      [0, 2]
+fascinated
+   body      [3]
+fascinating
+   body      [0, 1, 2, 3]
+fashionable
+   body      [3]
+fashioned
+   body      [0]
+fast
+   body      [0, 2, 3]
+faster
+   body      [2]
+fastest
+   body      [2]
+fat
+   body      [0, 2, 3]
+father
+   body      [0]
+fatter
+   body      [0]
+favourite
+   body      [1, 3]
+fear
+   body      [0, 1, 2, 3]
+fearfully
+   body      [3]
+fears
+   body      [2]
+feel
+   body      [0, 1, 2, 3]
+feeling
+   body      [0, 1, 3]
+feelings
+   body      [0, 3]
+feet
+   body      [0, 1, 2, 3]
+fell
+   body      [0, 1, 3]
+felt
+   body      [0, 1, 2, 3]
+few
+   body      [0, 1, 2, 3]
+fiction
+   body      [0]
+field
+   body      [0]
+fifteen
+   body      [0, 3]
+fifty
+   body      [0, 2]
+fight
+   body      [0, 2]
+fighting
+   body      [0]
+figures
+   body      [0]
+filled
+   body      [0, 1, 2, 3]
+filling
+   body      [0]
+film
+   body      [0]
+films
+   body      [0]
+final
+   body      [0, 3]
+finally
+   body      [0, 3]
+find
+   body      [0, 1, 2, 3]
+finding
+   body      [0, 3]
+fine
+   body      [1, 2]
+finger
+   body      [0, 3]
+fingers
+   body      [0, 2, 3]
+finish
+   body      [0, 3]
+finished
+   body      [0, 2, 3]
+finishing
+   body      [0]
+fire
+   body      [0, 1, 2, 3]
+first
+   body      [0, 1, 2, 3]
+fish
+   body      [1]
+five
+   body      [0, 2, 3]
+fixed
+   body      [2]
+flags
+   body      [0]
+flamed
+   body      [0]
+flat
+   body      [0]
+flats
+   body      [0]
+flatter
+   body      [3]
+flattered
+   body      [3]
+flattering
+   body      [3]
+flattery
+   body      [3]
+flew
+   body      [2]
+flight
+   body      [2]
+floor
+   body      [0, 1, 2, 3]
+flower
+   body      [0, 3]
+flowers
+   body      [0, 2, 3]
+fog
+   body      [3]
+foggy
+   body      [3]
+follow
+   body      [0, 2, 3]
+followed
+   body      [0, 1, 2, 3]
+follower
+   body      [0]
+following
+   body      [0, 1, 2, 3]
+follows
+   body      [0]
+fond
+   body      [3]
+food
+   body      [0, 1, 2]
+fool
+   body      [0, 3]
+foolish
+   body      [3]
+foolishness
+   body      [3]
+fools
+   body      [0]
+foot
+   body      [3]
+for
+   body      [0, 1, 2, 3]
+force
+   body      [0]
+forced
+   body      [0]
+foreign
+   body      [2]
+forest
+   body      [0, 3]
+forever
+   body      [2]
+forgave
+   body      [3]
+forget
+   body      [0, 1, 2, 3]
+forgive
+   body      [0, 3]
+forgiveness
+   body      [3]
+forgot
+   body      [0, 3]
+forgotten
+   body      [0, 2, 3]
+fortnight
+   body      [3]
+fortunately
+   body      [2]
+forty
+   body      [0]
+forward
+   body      [0, 2, 3]
+forwards
+   body      [0]
+fought
+   body      [2]
+found
+   body      [0, 1, 2, 3]
+four
+   body      [0, 2, 3]
+fourth
+   body      [1]
+francis
+   body      [3]
+free
+   body      [0, 1, 3]
+freedom
+   body      [0]
+french
+   body      [3]
+frequently
+   body      [0]
+fresh
+   body      [1, 2]
+friend
+   body      [0, 2, 3]
+friendly
+   body      [0, 1]
+friends
+   body      [0, 1, 2, 3]
+friendship
+   body      [3]
+frighten
+   body      [3]
+frightened
+   body      [0, 3]
+frightening
+   body      [0]
+frightens
+   body      [3]
+from
+   body      [0, 1, 2, 3]
+front
+   body      [0, 1, 2, 3]
+frown
+   body      [3]
+frowned
+   body      [3]
+frowning
+   body      [3]
+frozen
+   body      [0]
+fruit
+   body      [0]
+full
+   body      [0, 1, 2, 3]
+fully
+   body      [3]
+funeral
+   body      [2]
+furniture
+   body      [0]
+further
+   body      [3]
+future
+   body      [0, 3]
+galatz
+   body      [2]
+galloping
+   body      [2]
+gallows
+   body      [1]
+game
+   body      [0]
+games
+   body      [0]
+garden
+   body      [1, 2, 3]
+gardens
+   body      [2]
+garlic
+   body      [2]
+gas
+   body      [3]
+gate
+   body      [0, 2]
+gave
+   body      [0, 1, 2, 3]
+general
+   body      [0]
+gentle
+   body      [0, 3]
+gentleman
+   body      [0, 3]
+gentlemen
+   body      [1, 3]
+gently
+   body      [0, 3]
+george
+   author      [0]
+   body      [3]
+german
+   body      [2]
+get
+   body      [0, 2, 3]
+gets
+   body      [0, 3]
+getting
+   body      [0, 1, 2, 3]
+gin
+   body      [0]
+girl
+   body      [0, 2, 3]
+girls
+   body      [0, 3]
+give
+   body      [0, 2, 3]
+given
+   body      [0, 2, 3]
+gives
+   body      [3]
+giving
+   body      [0, 1, 3]
+glad
+   body      [0, 3]
+glass
+   body      [0, 2, 3]
+glasses
+   body      [0]
+gloves
+   body      [3]
+go
+   body      [0, 1, 2, 3]
+god
+   body      [0, 2, 3]
+gods
+   body      [3]
+goes
+   body      [0, 3]
+going
+   body      [0, 1, 2, 3]
+gold
+   body      [1, 2, 3]
+golden
+   body      [2]
+goldstein
+   body      [0]
+gone
+   body      [0, 2, 3]
+good
+   body      [0, 1, 2, 3]
+goodbye
+   body      [0, 3]
+goodness
+   body      [3]
+goodthinkers
+   body      [0]
+goodthinkful
+   body      [0]
+got
+   body      [0, 1, 2, 3]
+govern
+   body      [0]
+grammes
+   body      [0]
+grandfather
+   body      [3]
+grass
+   body      [0, 3]
+gray
+   body      [3]
+   title      [3]
+grays
+   body      [3]
+great
+   body      [0, 1, 2, 3]
+greater
+   body      [3]
+greatest
+   body      [2, 3]
+green
+   body      [0, 3]
+grew
+   body      [0, 1, 2, 3]
+grey
+   body      [0, 2, 3]
+grosvenor
+   body      [3]
+ground
+   body      [0, 1, 2, 3]
+group
+   body      [0]
+grouped
+   body      [0]
+groups
+   body      [0]
+grow
+   body      [2, 3]
+growing
+   body      [3]
+grown
+   body      [2, 3]
+grows
+   body      [0]
+guard
+   body      [0]
+guards
+   body      [0]
+guess
+   body      [0]
+guessed
+   body      [0]
+guest
+   body      [2]
+guilty
+   body      [0]
+gun
+   body      [0]
+guns
+   body      [0]
+habit
+   body      [0]
+had
+   body      [0, 1, 2, 3]
+hadn
+   body      [0]
+hair
+   body      [0, 1, 2, 3]
+haired
+   body      [0]
+hairy
+   body      [0]
+half
+   body      [0, 2, 3]
+hall
+   body      [0]
+hallward
+   body      [3]
+hammer
+   body      [2]
+hammered
+   body      [2]
+hammering
+   body      [2]
+hand
+   body      [0, 1, 2, 3]
+handed
+   body      [3]
+handful
+   body      [0]
+handfuls
+   body      [0]
+handkerchief
+   body      [3]
+hands
+   body      [0, 2, 3]
+handsome
+   body      [0, 3]
+hang
+   body      [0, 3]
+hanged
+   body      [0]
+hanging
+   body      [0, 1, 3]
+happen
+   body      [0, 2, 3]
+happened
+   body      [0, 1, 2, 3]
+happening
+   body      [0, 2, 3]
+happier
+   body      [3]
+happiest
+   body      [0]
+happily
+   body      [0, 1, 3]
+happiness
+   body      [0, 1, 3]
+happy
+   body      [0, 1, 2, 3]
+hard
+   body      [0, 1, 3]
+harder
+   body      [0]
+harker
+   body      [2]
+harkers
+   body      [2]
+harm
+   body      [2, 3]
+harmed
+   body      [2]
+harry
+   body      [3]
+has
+   body      [0, 2, 3]
+hasn
+   body      [3]
+hat
+   body      [2, 3]
+hate
+   body      [0, 1, 3]
+hated
+   body      [0, 1, 3]
+hateful
+   body      [3]
+hating
+   body      [0]
+have
+   body      [0, 1, 2, 3]
+haven
+   body      [0, 3]
+having
+   body      [0, 3]
+he
+   body      [0, 1, 2, 3]
+head
+   body      [0, 1, 2, 3]
+heads
+   body      [0, 2]
+heap
+   body      [2]
+hear
+   body      [0, 2, 3]
+heard
+   body      [0, 1, 2, 3]
+hearing
+   body      [3]
+heart
+   body      [0, 1, 2, 3]
+heartless
+   body      [3]
+hearts
+   body      [2]
+heaven
+   body      [3]
+heavily
+   body      [0]
+heavy
+   body      [0, 1, 2, 3]
+held
+   body      [0, 1, 2, 3]
+hell
+   body      [3]
+hellish
+   body      [3]
+hello
+   body      [0]
+help
+   body      [0, 2, 3]
+helped
+   body      [0, 1, 2, 3]
+helping
+   body      [0, 3]
+helpless
+   body      [0]
+helsing
+   body      [2]
+henry
+   body      [3]
+her
+   body      [0, 1, 2, 3]
+here
+   body      [0, 1, 2, 3]
+hero
+   body      [0]
+heroes
+   body      [0]
+hers
+   body      [2]
+herself
+   body      [0, 3]
+hertford
+   body      [3]
+hidden
+   body      [0, 3]
+hide
+   body      [0, 1, 2, 3]
+hiding
+   body      [0, 2]
+high
+   body      [0, 2, 3]
+higher
+   body      [2]
+highest
+   body      [2]
+hill
+   body      [2]
+him
+   body      [0, 1, 2, 3]
+himself
+   body      [0, 2, 3]
+hire
+   body      [2]
+his
+   body      [0, 1, 2, 3]
+history
+   body      [0, 2]
+hit
+   body      [0, 1, 2]
+hitting
+   body      [0]
+hold
+   body      [0, 2]
+holding
+   body      [0, 1, 2, 3]
+hole
+   body      [0, 1]
+holes
+   body      [0, 2, 3]
+holy
+   body      [2]
+home
+   body      [0, 1, 2, 3]
+homes
+   body      [0, 2]
+honest
+   body      [3]
+honestly
+   body      [0]
+honesty
+   body      [3]
+hope
+   body      [0, 1, 2, 3]
+hoped
+   body      [0, 3]
+hopefully
+   body      [0]
+hoping
+   body      [0]
+horrible
+   body      [0, 1, 3]
+horribly
+   body      [0, 3]
+horror
+   body      [0, 1]
+horses
+   body      [2]
+hospital
+   body      [2]
+hot
+   body      [0, 3]
+hotel
+   body      [2, 3]
+hour
+   body      [0, 1, 3]
+hours
+   body      [0, 2, 3]
+house
+   body      [0, 1, 2, 3]
+houses
+   body      [0, 2, 3]
+how
+   body      [0, 1, 2, 3]
+howled
+   body      [2]
+howling
+   body      [2]
+http
+   body      [0, 1, 2, 3]
+huge
+   body      [2]
+human
+   body      [0, 3]
+hundred
+   body      [0]
+hundreds
+   body      [0, 2]
+hung
+   body      [1, 2]
+hungrily
+   body      [0]
+hungry
+   body      [0, 2]
+hunted
+   body      [2]
+hurried
+   body      [0, 2, 3]
+hurry
+   body      [0, 1]
+hurrying
+   body      [3]
+hurt
+   body      [0, 1]
+husband
+   body      [0, 2, 3]
+hypnotize
+   body      [2]
+hypnotized
+   body      [2]
+hythe
+   body      [2]
+i
+   body      [0, 1, 2, 3]
+ice
+   body      [0, 2, 3]
+idea
+   body      [0, 3]
+ideas
+   body      [0, 3]
+if
+   body      [0, 1, 2, 3]
+ignorance
+   body      [0]
+ill
+   body      [2, 3]
+illegal
+   body      [0]
+illness
+   body      [1]
+imaginable
+   body      [0]
+imagine
+   body      [0]
+imagined
+   body      [0, 3]
+immediately
+   body      [0, 1, 2, 3]
+important
+   body      [0, 2, 3]
+impossible
+   body      [0, 1, 3]
+in
+   body      [0, 1, 2, 3]
+including
+   body      [0]
+increased
+   body      [0]
+independent
+   body      [0]
+india
+   body      [0]
+individual
+   body      [0]
+indoors
+   body      [0]
+influence
+   body      [3]
+influenced
+   body      [3]
+information
+   body      [0]
+ink
+   body      [0]
+inn
+   body      [2]
+inner
+   body      [0]
+innkeeper
+   body      [2]
+innocence
+   body      [3]
+innocent
+   body      [0, 3]
+insect
+   body      [0]
+inside
+   body      [0, 1, 2, 3]
+instead
+   body      [0, 3]
+intelligence
+   body      [0, 3]
+intelligent
+   body      [0, 1]
+intended
+   body      [0]
+interest
+   body      [0, 3]
+interested
+   body      [0, 3]
+interesting
+   body      [0, 3]
+into
+   body      [0, 1, 2, 3]
+introduce
+   body      [3]
+introduced
+   body      [3]
+invented
+   body      [0]
+inventing
+   body      [0]
+invitation
+   body      [2]
+invited
+   body      [0, 2]
+iron
+   body      [0, 2]
+is
+   body      [0, 1, 2, 3]
+isn
+   body      [0, 1]
+it
+   body      [0, 1, 2, 3]
+its
+   body      [0, 1, 2, 3]
+itself
+   body      [0, 3]
+jacket
+   body      [0]
+jam
+   body      [0]
+jealous
+   body      [3]
+job
+   body      [0]
+join
+   body      [0, 3]
+joined
+   body      [0]
+jonathan
+   body      [2]
+jones
+   body      [0]
+journalists
+   body      [0]
+journey
+   body      [0, 2]
+judged
+   body      [0]
+julia
+   body      [0]
+juliet
+   body      [3]
+july
+   body      [2]
+jump
+   body      [1, 3]
+jumped
+   body      [0, 1, 2, 3]
+jumping
+   body      [3]
+june
+   body      [0, 2, 3]
+just
+   body      [0, 1, 2, 3]
+katherine
+   body      [0]
+keep
+   body      [0, 2, 3]
+kept
+   body      [0, 1, 3]
+key
+   body      [2, 3]
+keys
+   body      [2]
+kick
+   body      [0]
+kicked
+   body      [0]
+kill
+   body      [0, 1, 2, 3]
+killed
+   body      [0, 2, 3]
+killing
+   body      [0]
+kilo
+   body      [0]
+kilometre
+   body      [0]
+kilometres
+   body      [0, 2]
+kind
+   body      [0, 1, 3]
+kindly
+   body      [0]
+kinds
+   body      [0]
+kiss
+   body      [0, 2]
+kissed
+   body      [0, 2, 3]
+kisses
+   body      [2, 3]
+kitchen
+   body      [0]
+knee
+   body      [0]
+knees
+   body      [0, 1]
+knew
+   body      [0, 1, 2, 3]
+knife
+   body      [1, 2, 3]
+knock
+   body      [0, 1, 3]
+knocked
+   body      [1, 3]
+knocking
+   body      [3]
+knot
+   body      [0]
+know
+   body      [0, 1, 2, 3]
+knowing
+   body      [0]
+knowledge
+   body      [0]
+known
+   body      [0, 3]
+knows
+   body      [0, 2, 3]
+l
+   body      [0]
+ladder
+   body      [0]
+lady
+   body      [2, 3]
+lain
+   body      [0]
+lamp
+   body      [0, 2, 3]
+lamps
+   body      [3]
+land
+   body      [0, 2]
+language
+   body      [0, 1]
+languages
+   body      [2]
+large
+   body      [0, 1, 2, 3]
+larger
+   body      [0, 3]
+largest
+   body      [0]
+last
+   body      [0, 2, 3]
+lasted
+   body      [0]
+lastly
+   body      [2]
+late
+   body      [0, 1, 2, 3]
+later
+   body      [0, 1, 2, 3]
+laugh
+   body      [0, 2, 3]
+laughed
+   body      [0, 1, 2, 3]
+laughing
+   body      [0, 3]
+laughter
+   body      [2, 3]
+law
+   body      [0]
+laws
+   body      [0]
+lawyer
+   body      [2]
+lay
+   body      [0, 2]
+lead
+   body      [3]
+leader
+   body      [0]
+leaders
+   body      [0]
+leading
+   body      [0]
+leaf
+   body      [3]
+league
+   body      [0]
+leaning
+   body      [2]
+leant
+   body      [2]
+learn
+   body      [0, 3]
+learned
+   body      [0, 3]
+learner
+   body      [0]
+learning
+   body      [0]
+least
+   body      [0, 3]
+leave
+   body      [0, 2, 3]
+leaves
+   body      [0, 3]
+leaving
+   body      [0, 1, 2, 3]
+led
+   body      [0, 2, 3]
+left
+   body      [0, 1, 2, 3]
+legs
+   body      [0]
+lend
+   body      [3]
+less
+   body      [0, 3]
+lesson
+   body      [0, 3]
+let
+   body      [0, 2, 3]
+letter
+   body      [0, 2, 3]
+letters
+   body      [0, 2, 3]
+lever
+   body      [0]
+library
+   body      [2, 3]
+licked
+   body      [2]
+lid
+   body      [2]
+lids
+   body      [2]
+lie
+   body      [0, 3]
+lied
+   body      [0]
+lies
+   body      [0, 3]
+life
+   body      [0, 2, 3]
+lift
+   body      [0]
+lifted
+   body      [0, 1, 2]
+light
+   body      [0, 2, 3]
+lightly
+   body      [0]
+lightning
+   body      [2]
+lights
+   body      [0, 2]
+like
+   body      [0, 1, 2, 3]
+liked
+   body      [0, 1, 2, 3]
+likely
+   body      [0, 3]
+likes
+   body      [3]
+lip
+   body      [3]
+lips
+   body      [0, 2, 3]
+liquid
+   body      [0]
+list
+   body      [0]
+listen
+   body      [0, 2, 3]
+listened
+   body      [0]
+listening
+   body      [0, 2, 3]
+lists
+   body      [0]
+lit
+   body      [0, 3]
+literature
+   body      [0]
+little
+   body      [0, 1, 2, 3]
+live
+   body      [0, 2, 3]
+lived
+   body      [0, 1, 2, 3]
+lives
+   body      [0, 3]
+living
+   body      [0, 2]
+ll
+   body      [0, 2, 3]
+lock
+   body      [2, 3]
+locked
+   body      [2, 3]
+locking
+   body      [3]
+london
+   body      [0, 2, 3]
+lonely
+   body      [0, 2, 3]
+long
+   body      [0, 1, 2, 3]
+longer
+   body      [0, 1, 2, 3]
+look
+   body      [0, 1, 2, 3]
+looked
+   body      [0, 1, 2, 3]
+looking
+   body      [0, 1, 2, 3]
+looks
+   body      [0]
+loose
+   body      [0]
+lord
+   body      [3]
+lose
+   body      [3]
+losing
+   body      [1]
+lost
+   body      [0, 2, 3]
+lot
+   body      [0, 2]
+lots
+   body      [0, 2]
+loud
+   body      [0]
+louder
+   body      [3]
+loudly
+   body      [0, 3]
+love
+   body      [0, 1, 2, 3]
+loved
+   body      [0, 1, 2, 3]
+loveliest
+   body      [3]
+lovely
+   body      [0, 3]
+lover
+   body      [0]
+lovers
+   body      [0]
+loving
+   body      [0, 1]
+low
+   body      [0, 3]
+loyal
+   body      [0]
+luck
+   body      [1, 3]
+lucky
+   body      [1, 2, 3]
+lucy
+   body      [2]
+lunch
+   body      [0, 3]
+lunchtime
+   body      [0]
+lying
+   body      [0, 3]
+m
+   body      [0, 2, 3]
+machine
+   body      [0, 1]
+machinery
+   body      [0]
+machines
+   body      [0]
+mad
+   body      [0, 1, 2, 3]
+madam
+   body      [2]
+made
+   body      [0, 1, 2, 3]
+madness
+   body      [3]
+magazines
+   body      [0]
+main
+   body      [0]
+mainly
+   body      [0]
+make
+   body      [0, 2, 3]
+makes
+   body      [3]
+making
+   body      [0, 2]
+man
+   body      [0, 1, 2, 3]
+managed
+   body      [0]
+mansions
+   body      [0]
+many
+   body      [0, 1, 2, 3]
+map
+   body      [0, 2]
+maps
+   body      [2]
+march
+   body      [0]
+marched
+   body      [0]
+marching
+   body      [0]
+mark
+   body      [3]
+marks
+   body      [2]
+marriage
+   body      [0]
+married
+   body      [0, 1, 2, 3]
+marries
+   body      [3]
+marry
+   body      [0, 3]
+matter
+   body      [0, 3]
+mattered
+   body      [0]
+may
+   body      [0, 2, 3]
+mayfair
+   body      [3]
+me
+   body      [0, 1, 2, 3]
+meal
+   body      [0, 2]
+meals
+   body      [0]
+mean
+   body      [0, 2, 3]
+meaning
+   body      [0, 1]
+meaningless
+   body      [0]
+meanings
+   body      [0]
+means
+   body      [0]
+meant
+   body      [0, 2, 3]
+meat
+   body      [0]
+mechanic
+   body      [0]
+medicine
+   body      [0]
+meet
+   body      [0, 2, 3]
+meeting
+   body      [0, 3]
+meetings
+   body      [0]
+member
+   body      [0]
+members
+   body      [0]
+memories
+   body      [3]
+memory
+   body      [0, 3]
+men
+   body      [0, 2, 3]
+message
+   body      [0, 2, 3]
+messages
+   body      [0]
+met
+   body      [0, 2, 3]
+metal
+   body      [0]
+metre
+   body      [0]
+metres
+   body      [0, 2]
+microphone
+   body      [0]
+microphones
+   body      [0]
+middle
+   body      [0, 1, 2]
+midnight
+   body      [2, 3]
+might
+   body      [0, 3]
+mile
+   body      [2]
+milky
+   body      [0]
+million
+   body      [0]
+millions
+   body      [0]
+mina
+   body      [2]
+mind
+   body      [0, 1, 2, 3]
+minds
+   body      [0]
+mine
+   body      [0, 2, 3]
+miniluv
+   body      [0]
+minipax
+   body      [0]
+miniplenty
+   body      [0]
+ministry
+   body      [0]
+minitrue
+   body      [0]
+minute
+   body      [0]
+minutes
+   body      [0, 1, 2, 3]
+mirror
+   body      [0, 2, 3]
+mirrors
+   body      [0]
+miss
+   body      [3]
+missed
+   body      [0, 3]
+mist
+   body      [2]
+mistake
+   body      [0, 3]
+mix
+   body      [0]
+mixing
+   body      [3]
+modern
+   body      [3]
+moment
+   body      [0, 2, 3]
+moments
+   body      [2, 3]
+money
+   body      [0, 2]
+month
+   body      [0, 3]
+months
+   body      [0, 1, 3]
+mood
+   body      [3]
+moods
+   body      [3]
+moon
+   body      [2]
+moonlight
+   body      [2]
+more
+   body      [0, 1, 2, 3]
+morning
+   body      [0, 1, 2, 3]
+most
+   body      [0, 1, 2, 3]
+mostly
+   body      [1]
+mother
+   body      [0, 3]
+mothers
+   body      [0, 2]
+motor
+   body      [0]
+mountain
+   body      [2]
+mountains
+   body      [2]
+mouse
+   body      [0, 3]
+moustache
+   body      [0]
+moustached
+   body      [0]
+mouth
+   body      [0, 1, 2, 3]
+mouths
+   body      [1]
+move
+   body      [0, 2, 3]
+moved
+   body      [0, 2, 3]
+movement
+   body      [0]
+movements
+   body      [0]
+moving
+   body      [0, 2, 3]
+mr
+   body      [0, 2, 3]
+mrs
+   body      [0, 3]
+much
+   body      [0, 1, 2, 3]
+mud
+   body      [0]
+murder
+   body      [0, 1, 3]
+murdered
+   body      [0, 3]
+music
+   body      [0, 2, 3]
+musical
+   body      [3]
+musician
+   body      [0]
+musicians
+   body      [0]
+must
+   body      [0, 2, 3]
+mustn
+   body      [3]
+my
+   body      [0, 1, 2, 3]
+myself
+   body      [1, 2, 3]
+mysterious
+   body      [3]
+mystery
+   body      [3]
+nails
+   body      [2]
+name
+   body      [0, 1, 2, 3]
+names
+   body      [0, 3]
+narrow
+   body      [0, 2]
+nasty
+   body      [0]
+natural
+   body      [0]
+near
+   body      [0, 1, 2, 3]
+nearer
+   body      [0, 2]
+nearest
+   body      [0, 2]
+nearly
+   body      [0, 1, 2, 3]
+necessary
+   body      [0, 3]
+neck
+   body      [0, 1, 2, 3]
+necks
+   body      [2]
+need
+   body      [0, 3]
+needed
+   body      [0, 2, 3]
+needs
+   body      [0, 2]
+neighbour
+   body      [0]
+neighbours
+   body      [1]
+nervous
+   body      [0]
+net
+   body      [0, 1, 2, 3]
+never
+   body      [0, 1, 2, 3]
+new
+   body      [0, 1, 2, 3]
+news
+   body      [0, 2, 3]
+newspaper
+   body      [0, 2, 3]
+newspapers
+   body      [0, 3]
+newspeak
+   body      [0]
+next
+   body      [0, 1, 2, 3]
+night
+   body      [0, 1, 2, 3]
+nights
+   body      [3]
+nine
+   body      [0, 2, 3]
+nineteen
+   body      [0]
+nineteenth
+   body      [0]
+ninety
+   body      [0]
+ninth
+   body      [0, 3]
+no
+   body      [0, 1, 2, 3]
+nobody
+   body      [0, 1, 2, 3]
+noise
+   body      [0, 2]
+noisy
+   body      [0]
+none
+   body      [0]
+north
+   body      [0, 2]
+nose
+   body      [0]
+not
+   body      [0, 1, 2, 3]
+note
+   body      [0, 2, 3]
+notebook
+   body      [0]
+notes
+   body      [0]
+nothing
+   body      [0, 1, 2, 3]
+notice
+   body      [0, 3]
+noticed
+   body      [0, 1, 2, 3]
+november
+   body      [3]
+now
+   body      [0, 1, 2, 3]
+nowhere
+   body      [2]
+number
+   body      [0]
+numbers
+   body      [0]
+o
+   body      [0, 2, 3]
+obey
+   body      [0]
+obeying
+   body      [0]
+object
+   body      [1]
+occasionally
+   body      [0]
+oceania
+   body      [0]
+october
+   body      [2, 3]
+odd
+   body      [3]
+of
+   body      [0, 1, 2, 3]
+   title      [3]
+off
+   body      [0, 1, 2, 3]
+offer
+   body      [0, 3]
+offering
+   body      [3]
+office
+   body      [0, 2]
+officer
+   body      [0]
+offices
+   body      [0]
+official
+   body      [0]
+officially
+   body      [3]
+often
+   body      [0, 1, 2, 3]
+ogilvy
+   body      [0]
+oh
+   body      [0, 1, 2, 3]
+oil
+   body      [0]
+oily
+   body      [0]
+old
+   body      [0, 1, 2, 3]
+older
+   body      [0, 3]
+oldest
+   body      [2]
+on
+   body      [0, 1, 2, 3]
+once
+   body      [0, 1, 2, 3]
+one
+   body      [0, 1, 2, 3]
+ones
+   body      [0, 2]
+only
+   body      [0, 1, 2, 3]
+onto
+   body      [0, 2]
+open
+   body      [0, 1, 2, 3]
+opened
+   body      [0, 2, 3]
+opening
+   body      [2]
+openly
+   body      [0]
+ophelia
+   body      [3]
+opinion
+   body      [0]
+opinions
+   body      [0]
+opposite
+   body      [0, 2, 3]
+or
+   body      [0, 1, 2, 3]
+oranges
+   body      [3]
+order
+   body      [0]
+ordered
+   body      [0]
+orders
+   body      [0]
+ordinary
+   body      [0, 3]
+organization
+   body      [0]
+organize
+   body      [0]
+organizer
+   body      [0]
+organizing
+   body      [0]
+orwell
+   author      [0]
+oscar
+   author      [3]
+other
+   body      [0, 2, 3]
+others
+   body      [0, 2, 3]
+our
+   body      [0, 1, 2, 3]
+ourselves
+   body      [3]
+out
+   body      [0, 1, 2, 3]
+outer
+   body      [0]
+outside
+   body      [0, 1, 2, 3]
+over
+   body      [0, 1, 2, 3]
+overalls
+   body      [0]
+own
+   body      [0, 2, 3]
+owned
+   body      [0]
+owner
+   body      [0]
+owning
+   body      [0]
+ownlife
+   body      [0]
+oxford
+   body      [3]
+packet
+   body      [0]
+packets
+   body      [0]
+page
+   body      [0]
+pages
+   body      [3]
+paid
+   body      [0, 2]
+pain
+   body      [0, 1, 3]
+painful
+   body      [2]
+paint
+   body      [3]
+painted
+   body      [0, 3]
+painter
+   body      [3]
+painters
+   body      [0, 3]
+painting
+   body      [0, 3]
+paintings
+   body      [3]
+pairs
+   body      [0]
+pale
+   body      [0, 2]
+paler
+   body      [2]
+paper
+   body      [0, 2, 3]
+papers
+   body      [0, 2]
+parent
+   body      [0]
+parents
+   body      [0]
+paris
+   body      [3]
+park
+   body      [0, 3]
+parker
+   body      [3]
+parsons
+   body      [0]
+part
+   body      [0, 1, 2, 3]
+parts
+   body      [0, 1, 2]
+party
+   body      [0, 3]
+pass
+   body      [2, 3]
+passage
+   body      [2]
+passages
+   body      [2]
+passed
+   body      [0, 1, 2, 3]
+passing
+   body      [0, 3]
+passion
+   body      [3]
+passionate
+   body      [3]
+passionately
+   body      [3]
+passions
+   body      [3]
+past
+   body      [0, 3]
+path
+   body      [0]
+pause
+   body      [0, 3]
+paused
+   body      [0, 3]
+pay
+   body      [0, 3]
+peace
+   body      [0, 2]
+peaceful
+   body      [0]
+peacefully
+   body      [2, 3]
+pen
+   body      [0]
+pencil
+   body      [0]
+people
+   body      [0, 1, 2, 3]
+perfect
+   body      [3]
+perfectly
+   body      [0, 3]
+perhaps
+   body      [0, 2, 3]
+person
+   body      [0, 1, 3]
+personal
+   body      [0]
+personality
+   body      [3]
+petit
+   body      [3]
+photograph
+   body      [2]
+photographs
+   body      [0, 2, 3]
+physical
+   body      [0]
+piano
+   body      [3]
+pick
+   body      [0]
+picked
+   body      [0, 1, 3]
+picking
+   body      [3]
+picture
+   body      [0, 3]
+   title      [3]
+pictures
+   body      [3]
+piece
+   body      [0, 1, 2, 3]
+pieces
+   body      [0, 1, 2, 3]
+pig
+   body      [0]
+pigs
+   body      [0]
+pile
+   body      [0]
+pillow
+   body      [0]
+pink
+   body      [0]
+place
+   body      [0, 2, 3]
+placed
+   body      [2, 3]
+places
+   body      [0, 2, 3]
+plan
+   body      [0, 2]
+planned
+   body      [3]
+planning
+   body      [2]
+plans
+   body      [2]
+plants
+   body      [2]
+plaster
+   body      [1]
+plate
+   body      [0]
+plates
+   body      [0]
+play
+   body      [3]
+played
+   body      [0, 3]
+playing
+   body      [0, 3]
+plays
+   body      [0, 3]
+please
+   body      [0, 2, 3]
+pleased
+   body      [0, 1, 3]
+pleasure
+   body      [0, 3]
+plenty
+   body      [0, 3]
+pluto
+   body      [1]
+pocket
+   body      [0, 1, 2, 3]
+pockets
+   body      [0, 2, 3]
+poe
+   author      [1]
+poem
+   body      [0]
+poems
+   body      [0]
+point
+   body      [0, 2, 3]
+pointed
+   body      [0, 2, 3]
+pointing
+   body      [0]
+police
+   body      [0, 1, 3]
+policeman
+   body      [3]
+policemen
+   body      [1]
+political
+   body      [0]
+poole
+   body      [3]
+poor
+   body      [0, 1, 2, 3]
+popular
+   body      [0]
+population
+   body      [0]
+populations
+   body      [0]
+port
+   body      [2]
+portrait
+   body      [3]
+position
+   body      [0]
+possible
+   body      [0]
+possibly
+   body      [0, 1]
+post
+   body      [2]
+poster
+   body      [0]
+posters
+   body      [0]
+poured
+   body      [0]
+pouring
+   body      [3]
+power
+   body      [0, 2]
+powerful
+   body      [0, 2]
+powers
+   body      [2]
+pray
+   body      [2]
+prayed
+   body      [2]
+prayer
+   body      [2]
+prefer
+   body      [3]
+prepared
+   body      [0]
+present
+   body      [0, 3]
+press
+   body      [0]
+pressed
+   body      [0, 1]
+pressing
+   body      [0, 1]
+pretend
+   body      [0, 3]
+prettier
+   body      [0]
+pretty
+   body      [0, 2, 3]
+price
+   body      [2]
+prince
+   body      [3]
+prison
+   body      [0]
+prisoner
+   body      [2]
+prisoners
+   body      [0]
+private
+   body      [0]
+probably
+   body      [0, 1, 3]
+problem
+   body      [0, 3]
+produces
+   body      [0]
+production
+   body      [0]
+professions
+   body      [0]
+professor
+   body      [2]
+programmes
+   body      [0]
+progress
+   body      [0]
+prole
+   body      [0]
+proles
+   body      [0]
+promise
+   body      [3]
+promised
+   body      [0, 3]
+promising
+   body      [0]
+property
+   body      [0]
+proud
+   body      [0]
+proudly
+   body      [0]
+pulled
+   body      [0, 1, 2, 3]
+pulling
+   body      [2, 3]
+punish
+   body      [0]
+punished
+   body      [0, 3]
+punishment
+   body      [0, 3]
+pure
+   body      [0, 3]
+purest
+   body      [3]
+purfleet
+   body      [2]
+purple
+   body      [3]
+pushed
+   body      [0, 2, 3]
+pushing
+   body      [0, 3]
+put
+   body      [0, 1, 2, 3]
+puts
+   body      [3]
+putting
+   body      [0, 1, 2, 3]
+quarter
+   body      [0, 3]
+queen
+   body      [2]
+question
+   body      [0, 3]
+questioners
+   body      [0]
+questioning
+   body      [0]
+questions
+   body      [0, 1, 2, 3]
+quickly
+   body      [0, 1, 2, 3]
+quiet
+   body      [2, 3]
+quietly
+   body      [0, 2, 3]
+quite
+   body      [0, 1, 3]
+raced
+   body      [0]
+racing
+   body      [0]
+radio
+   body      [0]
+railway
+   body      [0, 2]
+raised
+   body      [2]
+ran
+   body      [0, 1, 2, 3]
+rang
+   body      [3]
+rarely
+   body      [0, 3]
+rat
+   body      [0]
+rather
+   body      [3]
+rats
+   body      [0, 2]
+razor
+   body      [0, 2]
+rd
+   body      [2]
+re
+   body      [0, 3]
+reach
+   body      [0, 2]
+reached
+   body      [0, 2, 3]
+reaches
+   body      [2]
+read
+   body      [0, 2, 3]
+reading
+   body      [0, 1, 2, 3]
+ready
+   body      [0, 1, 2, 3]
+real
+   body      [0, 3]
+reality
+   body      [0]
+realized
+   body      [0, 1, 3]
+really
+   body      [0, 1, 3]
+reason
+   body      [0, 2, 3]
+receive
+   body      [0]
+received
+   body      [0, 2, 3]
+recently
+   body      [0, 3]
+recognize
+   body      [0, 3]
+recognized
+   body      [0, 3]
+records
+   body      [0]
+red
+   body      [0, 1, 2, 3]
+redder
+   body      [0]
+refuse
+   body      [3]
+refused
+   body      [0]
+relations
+   body      [3]
+remain
+   body      [3]
+remained
+   body      [3]
+remember
+   body      [0, 1, 2, 3]
+remembered
+   body      [0, 1, 2, 3]
+remembering
+   body      [3]
+remind
+   body      [2, 3]
+reminded
+   body      [0, 2]
+reminder
+   body      [3]
+reminds
+   body      [3]
+rent
+   body      [0]
+renting
+   body      [0]
+repair
+   body      [0]
+repaired
+   body      [0]
+repairs
+   body      [0]
+repeated
+   body      [0, 2, 3]
+replied
+   body      [2, 3]
+reply
+   body      [3]
+report
+   body      [3]
+request
+   body      [0]
+responsible
+   body      [0]
+rest
+   body      [0, 1, 2, 3]
+resting
+   body      [0, 2]
+restless
+   body      [2]
+rests
+   body      [2]
+result
+   body      [0]
+return
+   body      [0, 2]
+returned
+   body      [2, 3]
+returning
+   body      [0, 2]
+returns
+   body      [2]
+rich
+   body      [2]
+richer
+   body      [0]
+rid
+   body      [0]
+right
+   body      [0, 1, 2, 3]
+ringing
+   body      [3]
+rings
+   body      [3]
+river
+   body      [1, 2]
+rivers
+   body      [2]
+road
+   body      [0, 2]
+romantic
+   body      [3]
+romeo
+   body      [3]
+roof
+   body      [0, 3]
+room
+   body      [0, 2, 3]
+rooms
+   body      [0, 3]
+roses
+   body      [3]
+rough
+   body      [0]
+round
+   body      [0, 1, 2, 3]
+rude
+   body      [3]
+rule
+   body      [0]
+rules
+   body      [0]
+ruling
+   body      [0]
+rumours
+   body      [3]
+run
+   body      [0, 3]
+running
+   body      [0, 2]
+rush
+   body      [3]
+rushed
+   body      [3]
+russian
+   body      [2]
+rutherford
+   body      [0]
+s
+   body      [0, 1, 2, 3]
+sad
+   body      [0, 1, 2, 3]
+sadly
+   body      [0, 2, 3]
+sadness
+   body      [1, 3]
+safe
+   body      [0, 2, 3]
+safer
+   body      [0, 2]
+said
+   body      [0, 1, 2, 3]
+sailed
+   body      [2]
+sailors
+   body      [2]
+salad
+   body      [3]
+same
+   body      [0, 1, 2, 3]
+sang
+   body      [0]
+sat
+   body      [0, 1, 2, 3]
+save
+   body      [0, 2, 3]
+saved
+   body      [3]
+saving
+   body      [0]
+saw
+   body      [0, 1, 2, 3]
+say
+   body      [0, 2, 3]
+saying
+   body      [0, 1, 2, 3]
+says
+   body      [0, 3]
+scandal
+   body      [3]
+scandals
+   body      [3]
+school
+   body      [0]
+schoolboy
+   body      [0, 3]
+schoolroom
+   body      [3]
+schumann
+   body      [3]
+science
+   body      [0]
+scientist
+   body      [3]
+scientists
+   body      [0]
+scream
+   body      [0, 1]
+screamed
+   body      [0, 2]
+screaming
+   body      [0]
+screams
+   body      [2]
+sea
+   body      [2]
+search
+   body      [0, 1]
+searched
+   body      [1, 3]
+seat
+   body      [0, 3]
+seats
+   body      [0, 3]
+second
+   body      [0, 2, 3]
+seconds
+   body      [0]
+secret
+   body      [0, 3]
+secretly
+   body      [0, 3]
+secrets
+   body      [0, 3]
+see
+   body      [0, 1, 2, 3]
+seeing
+   body      [0, 3]
+seem
+   body      [0, 3]
+seemed
+   body      [0, 1, 3]
+seems
+   body      [3]
+seen
+   body      [0, 2, 3]
+sees
+   body      [0, 3]
+seine
+   body      [3]
+selfish
+   body      [1, 3]
+sell
+   body      [0, 3]
+selling
+   body      [0]
+send
+   body      [0, 2, 3]
+sending
+   body      [1]
+sense
+   body      [0]
+sent
+   body      [0, 2, 3]
+sentences
+   body      [0]
+separate
+   body      [0]
+separated
+   body      [3]
+separation
+   body      [0]
+september
+   body      [2]
+serious
+   body      [0, 3]
+seriously
+   body      [0, 3]
+seruth
+   body      [2]
+servant
+   body      [0, 1, 2, 3]
+servants
+   body      [0, 3]
+seven
+   body      [0, 2, 3]
+seventeen
+   body      [0, 3]
+seventh
+   body      [0]
+seventy
+   body      [0]
+several
+   body      [0, 1, 2, 3]
+sex
+   body      [0]
+shadows
+   body      [2, 3]
+shakespeare
+   body      [3]
+shaking
+   body      [0, 3]
+shall
+   body      [0, 2, 3]
+shame
+   body      [3]
+shameful
+   body      [3]
+shape
+   body      [1, 2]
+shapes
+   body      [0, 2]
+share
+   body      [0, 3]
+shared
+   body      [0]
+sharing
+   body      [0]
+sharp
+   body      [0, 2]
+shave
+   body      [2]
+shaved
+   body      [0]
+shaving
+   body      [2]
+shawl
+   body      [2]
+she
+   body      [0, 1, 2, 3]
+sheep
+   body      [0]
+shelf
+   body      [0]
+shine
+   body      [2]
+shining
+   body      [0, 1, 2, 3]
+ship
+   body      [2]
+shock
+   body      [0, 2]
+shocked
+   body      [0]
+shoe
+   body      [0]
+shoes
+   body      [0, 2]
+shone
+   body      [0, 2, 3]
+shook
+   body      [0, 2, 3]
+shoot
+   body      [0]
+shop
+   body      [0]
+shops
+   body      [0]
+shore
+   body      [2]
+short
+   body      [0, 2]
+shot
+   body      [0, 3]
+should
+   body      [0, 2, 3]
+shoulder
+   body      [0, 3]
+shoulders
+   body      [0, 1]
+shouldn
+   body      [2, 3]
+shout
+   body      [0, 2]
+shouted
+   body      [0, 2, 3]
+shouting
+   body      [0, 1, 2, 3]
+shouts
+   body      [2]
+show
+   body      [0, 3]
+showed
+   body      [0, 1, 2, 3]
+showing
+   body      [0]
+shown
+   body      [0, 3]
+shows
+   body      [0]
+shut
+   body      [0, 2, 3]
+shutting
+   body      [3]
+shy
+   body      [3]
+sibyl
+   body      [3]
+sick
+   body      [0, 2, 3]
+side
+   body      [0, 1, 2, 3]
+sided
+   body      [0]
+sides
+   body      [0, 1, 2]
+sight
+   body      [0, 2]
+sign
+   body      [2, 3]
+signed
+   body      [2, 3]
+signs
+   body      [3]
+silence
+   body      [0, 2, 3]
+silent
+   body      [0, 2, 3]
+silly
+   body      [3]
+silver
+   body      [3]
+similar
+   body      [0]
+simple
+   body      [0, 3]
+simply
+   body      [3]
+since
+   body      [0, 2, 3]
+sing
+   body      [0, 3]
+singing
+   body      [0, 2, 3]
+singleton
+   body      [3]
+sink
+   body      [0]
+sir
+   body      [3]
+sirs
+   body      [1]
+sister
+   body      [0, 2]
+sit
+   body      [0, 1, 3]
+sitter
+   body      [3]
+sitters
+   body      [3]
+sitting
+   body      [0, 1, 2, 3]
+situation
+   body      [0]
+six
+   body      [0, 2, 3]
+sixteen
+   body      [0]
+sixth
+   body      [0]
+sixty
+   body      [0]
+size
+   body      [1]
+sized
+   body      [0]
+skies
+   body      [0]
+skin
+   body      [0, 3]
+sky
+   body      [0, 2, 3]
+slavery
+   body      [0]
+sleep
+   body      [0, 1, 2]
+sleeping
+   body      [0, 2, 3]
+sleepy
+   body      [0, 3]
+slept
+   body      [0, 1, 2]
+slight
+   body      [0]
+slightly
+   body      [0]
+slipped
+   body      [2]
+slogan
+   body      [0]
+slogans
+   body      [0]
+slow
+   body      [0, 2, 3]
+slowly
+   body      [0, 1, 2, 3]
+small
+   body      [0, 2, 3]
+smaller
+   body      [0]
+smallest
+   body      [0, 1]
+smell
+   body      [0, 2, 3]
+smelled
+   body      [0]
+smelling
+   body      [0, 3]
+smells
+   body      [0, 2]
+smelt
+   body      [2]
+smile
+   body      [0, 2, 3]
+smiled
+   body      [0, 2, 3]
+smiling
+   body      [0, 2, 3]
+smith
+   body      [0]
+smoke
+   body      [0, 3]
+smoking
+   body      [3]
+smooth
+   body      [0]
+snow
+   body      [2]
+so
+   body      [0, 1, 2, 3]
+soap
+   body      [0]
+society
+   body      [0]
+sofa
+   body      [3]
+soft
+   body      [0, 1, 2]
+softly
+   body      [0, 3]
+sold
+   body      [0]
+soldier
+   body      [0, 3]
+soldiers
+   body      [0]
+solutions
+   body      [0]
+some
+   body      [0, 1, 2, 3]
+somebody
+   body      [0, 3]
+someone
+   body      [0, 1, 3]
+something
+   body      [0, 1, 2, 3]
+sometimes
+   body      [0, 1, 2, 3]
+somewhere
+   body      [0, 2, 3]
+son
+   body      [0]
+song
+   body      [0]
+songs
+   body      [0]
+soon
+   body      [0, 1, 2, 3]
+sooner
+   body      [0]
+sorry
+   body      [0, 1, 3]
+sort
+   body      [0, 3]
+sorts
+   body      [1]
+soul
+   body      [3]
+sound
+   body      [0, 2, 3]
+sounded
+   body      [3]
+sounds
+   body      [3]
+soup
+   body      [0]
+south
+   body      [0, 3]
+space
+   body      [0]
+speak
+   body      [0, 2, 3]
+speaking
+   body      [0, 2, 3]
+speaks
+   body      [0]
+speakwrite
+   body      [0]
+special
+   body      [0]
+speech
+   body      [0]
+spelling
+   body      [0]
+spend
+   body      [0, 3]
+spends
+   body      [3]
+spent
+   body      [0, 1, 2]
+spies
+   body      [0]
+spoil
+   body      [3]
+spoiled
+   body      [3]
+spoils
+   body      [0]
+spoke
+   body      [0, 2, 3]
+spoken
+   body      [0, 3]
+sports
+   body      [0]
+spy
+   body      [0]
+square
+   body      [0, 3]
+st
+   body      [2]
+stage
+   body      [0]
+stages
+   body      [0]
+stairs
+   body      [0, 1, 2, 3]
+stairway
+   body      [2]
+stake
+   body      [2]
+stakes
+   body      [2]
+stamping
+   body      [0]
+stand
+   body      [0, 3]
+standing
+   body      [0, 1, 2, 3]
+stare
+   body      [3]
+stared
+   body      [0, 3]
+staring
+   body      [3]
+start
+   body      [0, 3]
+started
+   body      [0, 1, 2]
+starting
+   body      [0]
+state
+   body      [0]
+station
+   body      [0, 2, 3]
+stations
+   body      [0]
+stay
+   body      [0, 2, 3]
+stayed
+   body      [0, 1, 2, 3]
+staying
+   body      [0, 1, 2]
+steal
+   body      [0]
+step
+   body      [0, 2, 3]
+stepped
+   body      [0, 2, 3]
+stepping
+   body      [3]
+steps
+   body      [2, 3]
+stick
+   body      [0, 3]
+sticks
+   body      [0]
+still
+   body      [0, 1, 2, 3]
+stir
+   body      [3]
+stoker
+   author      [2]
+stolen
+   body      [3]
+stomach
+   body      [0]
+stone
+   body      [0, 2]
+stones
+   body      [0, 1, 2]
+stood
+   body      [0, 1, 2, 3]
+stop
+   body      [0, 1, 2, 3]
+stopped
+   body      [0, 1, 2, 3]
+stopping
+   body      [0]
+stops
+   body      [0]
+stories
+   body      [0, 1, 2, 3]
+storm
+   body      [2]
+story
+   body      [0, 1, 2, 3]
+straight
+   body      [0, 2, 3]
+straighter
+   body      [0, 1]
+strange
+   body      [0, 1, 2, 3]
+strangely
+   body      [0, 3]
+stranger
+   body      [2, 3]
+street
+   body      [0, 1, 2, 3]
+streets
+   body      [0, 1, 2, 3]
+strength
+   body      [0]
+stretched
+   body      [3]
+striking
+   body      [0]
+strong
+   body      [0, 1, 2, 3]
+stronger
+   body      [0, 2, 3]
+strongly
+   body      [0, 1]
+stuck
+   body      [3]
+studied
+   body      [0, 2]
+study
+   body      [3]
+stuff
+   body      [0]
+stupid
+   body      [0, 3]
+stupidly
+   body      [0]
+subject
+   body      [3]
+subjects
+   body      [0]
+such
+   body      [0, 1, 3]
+sudden
+   body      [2, 3]
+suddenly
+   body      [0, 1, 2, 3]
+suffer
+   body      [0, 3]
+suffered
+   body      [0, 3]
+suffering
+   body      [0]
+sugar
+   body      [0]
+sugarless
+   body      [0]
+suggested
+   body      [0]
+suit
+   body      [0]
+suits
+   body      [0]
+summer
+   body      [3]
+sun
+   body      [2, 3]
+sunday
+   body      [0]
+sunlight
+   body      [3]
+sunrise
+   body      [3]
+sunset
+   body      [2]
+sunshine
+   body      [0]
+supported
+   body      [0]
+supporter
+   body      [0]
+suppose
+   body      [0, 3]
+sure
+   body      [0, 1, 2, 3]
+surprise
+   body      [0, 2, 3]
+surprised
+   body      [0, 1, 2, 3]
+surprising
+   body      [0]
+surprisingly
+   body      [0]
+surrounding
+   body      [0]
+suspect
+   body      [3]
+suspected
+   body      [3]
+swallowed
+   body      [3]
+swam
+   body      [0]
+sweat
+   body      [0]
+sweet
+   body      [0, 3]
+switch
+   body      [0]
+switched
+   body      [0]
+syme
+   body      [0]
+t
+   body      [0, 1, 2, 3]
+table
+   body      [0, 2, 3]
+tables
+   body      [0]
+take
+   body      [0, 1, 2, 3]
+taken
+   body      [0, 2, 3]
+taking
+   body      [0, 1, 2, 3]
+talk
+   body      [0, 2, 3]
+talked
+   body      [0, 3]
+talking
+   body      [0, 1, 2, 3]
+tall
+   body      [0, 2, 3]
+taste
+   body      [0]
+tasted
+   body      [0]
+taught
+   body      [0, 2, 3]
+tea
+   body      [0, 3]
+teach
+   body      [3]
+teacher
+   body      [0, 2]
+teachers
+   body      [0]
+teaching
+   body      [0]
+tears
+   body      [0, 2, 3]
+teeth
+   body      [0, 2]
+telegram
+   body      [2, 3]
+telescreen
+   body      [0]
+telescreens
+   body      [0]
+television
+   body      [0]
+tell
+   body      [0, 1, 2, 3]
+telling
+   body      [0, 3]
+tells
+   body      [0]
+ten
+   body      [0, 3]
+tenth
+   body      [0]
+terrible
+   body      [0, 1, 2, 3]
+terribly
+   body      [0, 2, 3]
+terror
+   body      [0]
+th
+   body      [0, 2]
+than
+   body      [0, 1, 2, 3]
+thank
+   body      [0, 2, 3]
+thanks
+   body      [0, 3]
+that
+   body      [0, 1, 2, 3]
+the
+   body      [0, 1, 2, 3]
+   title      [3]
+theatre
+   body      [3]
+theatres
+   body      [3]
+their
+   body      [0, 1, 2, 3]
+them
+   body      [0, 1, 2, 3]
+themselves
+   body      [0, 2, 3]
+then
+   body      [0, 1, 2, 3]
+there
+   body      [0, 1, 2, 3]
+therefore
+   body      [0]
+these
+   body      [0, 1, 2, 3]
+they
+   body      [0, 1, 2, 3]
+thick
+   body      [0, 1, 2]
+thin
+   body      [0, 2, 3]
+thing
+   body      [0, 1, 2, 3]
+things
+   body      [0, 1, 2, 3]
+think
+   body      [0, 1, 2, 3]
+thinking
+   body      [0, 2, 3]
+thinks
+   body      [3]
+third
+   body      [0, 3]
+thirteen
+   body      [0, 3]
+thirty
+   body      [0, 3]
+this
+   body      [0, 1, 2, 3]
+those
+   body      [0, 1, 2, 3]
+though
+   body      [0, 3]
+thought
+   body      [0, 1, 2, 3]
+thoughtcrime
+   body      [0]
+thoughtcriminal
+   body      [0]
+thoughtcriminals
+   body      [0]
+thoughtful
+   body      [3]
+thoughtfully
+   body      [0]
+thoughtless
+   body      [3]
+thoughts
+   body      [0, 1, 2, 3]
+thousand
+   body      [0]
+thousands
+   body      [0, 3]
+three
+   body      [0, 1, 2, 3]
+threw
+   body      [0, 1, 2, 3]
+throat
+   body      [2]
+throats
+   body      [2]
+through
+   body      [0, 1, 2, 3]
+throw
+   body      [0]
+throwing
+   body      [1, 3]
+thrown
+   body      [0]
+thumb
+   body      [0]
+thunder
+   body      [2]
+tied
+   body      [0]
+ties
+   body      [3]
+tightly
+   body      [0]
+time
+   body      [0, 1, 2, 3]
+times
+   body      [0, 1, 2, 3]
+tired
+   body      [0, 2, 3]
+tiring
+   body      [0]
+title
+   body      [0]
+to
+   body      [0, 1, 2, 3]
+tobacco
+   body      [0]
+today
+   body      [0, 2, 3]
+toe
+   body      [3]
+together
+   body      [0, 1, 2, 3]
+toilet
+   body      [0]
+toilets
+   body      [0]
+told
+   body      [0, 2, 3]
+tom
+   body      [0]
+tomb
+   body      [2]
+tombs
+   body      [2]
+tomorrow
+   body      [0, 1, 2, 3]
+tongue
+   body      [0]
+tonight
+   body      [3]
+too
+   body      [0, 1, 2, 3]
+took
+   body      [0, 1, 2, 3]
+tool
+   body      [0, 1]
+tools
+   body      [0]
+tooth
+   body      [0]
+top
+   body      [0, 1, 2, 3]
+tops
+   body      [2]
+tor
+   body      [3]
+tore
+   body      [3]
+touch
+   body      [0, 2, 3]
+touched
+   body      [0, 1, 2, 3]
+touching
+   body      [3]
+towards
+   body      [0, 2, 3]
+town
+   body      [0, 1, 2, 3]
+toy
+   body      [0]
+tragedies
+   body      [3]
+tragedy
+   body      [3]
+tragic
+   body      [3]
+train
+   body      [0, 2, 3]
+trained
+   body      [0]
+trains
+   body      [2]
+transfusion
+   body      [2]
+transylvania
+   body      [2]
+travel
+   body      [2]
+travelled
+   body      [2]
+travelling
+   body      [2]
+tree
+   body      [0, 1]
+trees
+   body      [0, 2]
+tried
+   body      [0, 1, 2, 3]
+trouble
+   body      [3]
+troubled
+   body      [2]
+trousers
+   body      [0]
+true
+   body      [0, 1, 2, 3]
+truly
+   body      [3]
+truth
+   body      [0, 2]
+truthfully
+   body      [0]
+try
+   body      [0, 1, 2, 3]
+trying
+   body      [0, 3]
+tube
+   body      [0]
+tuesday
+   body      [3]
+turn
+   body      [0, 3]
+turned
+   body      [0, 2, 3]
+turning
+   body      [0, 3]
+twelve
+   body      [0, 3]
+twentieth
+   body      [0]
+twenty
+   body      [0, 3]
+twice
+   body      [0, 2, 3]
+twisted
+   body      [2]
+two
+   body      [0, 1, 2, 3]
+type
+   body      [0, 1]
+ugliness
+   body      [3]
+ugly
+   body      [0, 1, 2, 3]
+unable
+   body      [0]
+unattractive
+   body      [0]
+unbelievable
+   body      [0]
+unbelievably
+   body      [0]
+unborn
+   body      [0]
+uncle
+   body      [0]
+unclean
+   body      [0]
+unclear
+   body      [0]
+uncontrollably
+   body      [0]
+uncover
+   body      [0]
+uncovered
+   body      [0]
+under
+   body      [0, 1, 3]
+underground
+   body      [0]
+underneath
+   body      [1]
+understand
+   body      [0, 1, 2, 3]
+understanding
+   body      [0, 3]
+understands
+   body      [3]
+understood
+   body      [0, 3]
+ungood
+   body      [0]
+unhappiness
+   body      [1]
+unhappy
+   body      [0]
+uniform
+   body      [0]
+uniformed
+   body      [0]
+uniforms
+   body      [0]
+unimportant
+   body      [0, 1]
+university
+   body      [3]
+unkind
+   body      [1]
+unless
+   body      [0, 2]
+unlocked
+   body      [2, 3]
+unopened
+   body      [2]
+unperson
+   body      [0]
+unpleasant
+   body      [0, 2]
+unthinkable
+   body      [0]
+until
+   body      [0, 1, 2, 3]
+unusual
+   body      [0]
+unwise
+   body      [0]
+up
+   body      [0, 1, 2, 3]
+upon
+   body      [3]
+upside
+   body      [3]
+upstairs
+   body      [0, 1, 2, 3]
+us
+   body      [0, 1, 2, 3]
+use
+   body      [0, 1, 2, 3]
+used
+   body      [0, 3]
+useless
+   body      [0]
+uses
+   body      [3]
+using
+   body      [0, 2, 3]
+usual
+   body      [0, 1, 2]
+usually
+   body      [0, 3]
+vampire
+   body      [2]
+vampires
+   body      [2]
+van
+   body      [2]
+vane
+   body      [3]
+vaporize
+   body      [0]
+vaporized
+   body      [0]
+varna
+   body      [2]
+vault
+   body      [2]
+ve
+   body      [0, 3]
+velasquez
+   body      [3]
+verbs
+   body      [0]
+veresti
+   body      [2]
+very
+   body      [0, 1, 2, 3]
+victim
+   body      [2]
+victims
+   body      [2]
+victoria
+   body      [3]
+victory
+   body      [0]
+vine
+   body      [3]
+violin
+   body      [3]
+visit
+   body      [0, 2]
+visited
+   body      [2]
+voice
+   body      [0, 1, 2, 3]
+voices
+   body      [0, 3]
+w
+   body      [0]
+waist
+   body      [0]
+wait
+   body      [0, 2, 3]
+waited
+   body      [0, 1, 2, 3]
+waiter
+   body      [0, 3]
+waiters
+   body      [0]
+waiting
+   body      [0, 2, 3]
+wake
+   body      [1, 2, 3]
+waking
+   body      [1]
+walk
+   body      [0, 2, 3]
+walked
+   body      [0, 1, 2, 3]
+walking
+   body      [0, 2, 3]
+walks
+   body      [0]
+wall
+   body      [0, 1, 2, 3]
+walls
+   body      [0, 1, 2]
+want
+   body      [0, 1, 2, 3]
+wanted
+   body      [0, 1, 2, 3]
+wanting
+   body      [3]
+wants
+   body      [0, 2, 3]
+war
+   body      [0]
+warm
+   body      [0, 2]
+warned
+   body      [0]
+warning
+   body      [0]
+wars
+   body      [0]
+was
+   body      [0, 1, 2, 3]
+wash
+   body      [0]
+washed
+   body      [0, 2]
+wasn
+   body      [0, 3]
+waste
+   body      [0, 3]
+watch
+   body      [0, 2, 3]
+watched
+   body      [0, 1, 2, 3]
+watching
+   body      [0, 1, 2, 3]
+water
+   body      [0, 2, 3]
+watery
+   body      [0]
+wave
+   body      [0]
+waved
+   body      [0, 3]
+way
+   body      [0, 1, 2, 3]
+ways
+   body      [0]
+we
+   body      [0, 1, 2, 3]
+weak
+   body      [0]
+weakened
+   body      [0]
+weakly
+   body      [0]
+wear
+   body      [0, 2]
+wearing
+   body      [0]
+weather
+   body      [0, 2]
+week
+   body      [0, 2, 3]
+weeks
+   body      [0, 1, 2, 3]
+welcome
+   body      [0, 2]
+welcomed
+   body      [2]
+well
+   body      [0, 1, 2, 3]
+went
+   body      [0, 1, 2, 3]
+were
+   body      [0, 1, 2, 3]
+west
+   body      [2]
+wet
+   body      [1, 2, 3]
+what
+   body      [0, 1, 2, 3]
+when
+   body      [0, 1, 2, 3]
+whenever
+   body      [3]
+where
+   body      [0, 1, 2, 3]
+wherever
+   body      [2, 3]
+whether
+   body      [0, 3]
+which
+   body      [0, 2, 3]
+while
+   body      [0, 2, 3]
+whisper
+   body      [3]
+whispered
+   body      [2, 3]
+whispering
+   body      [3]
+whispers
+   body      [3]
+white
+   body      [0, 1, 2, 3]
+whitechapel
+   body      [3]
+whiteness
+   body      [0]
+who
+   body      [0, 1, 2, 3]
+whole
+   body      [0, 3]
+whom
+   body      [3]
+whose
+   body      [0, 3]
+why
+   body      [0, 1, 2, 3]
+wide
+   body      [0, 1, 2]
+wider
+   body      [0]
+wife
+   body      [0, 1, 2, 3]
+wild
+   body      [0, 2, 3]
+wilde
+   author      [3]
+wildly
+   body      [3]
+will
+   body      [0, 1, 2, 3]
+willing
+   body      [0]
+win
+   body      [0]
+wind
+   body      [0, 2, 3]
+winding
+   body      [2]
+window
+   body      [0, 1, 2, 3]
+windowless
+   body      [0]
+windows
+   body      [0, 2, 3]
+wine
+   body      [0, 1, 2, 3]
+wings
+   body      [2]
+winston
+   body      [0]
+winter
+   body      [0, 2]
+wish
+   body      [0, 3]
+wished
+   body      [0]
+wishes
+   body      [0]
+with
+   body      [0, 1, 2, 3]
+without
+   body      [0, 1, 2, 3]
+wives
+   body      [0]
+woke
+   body      [0, 1, 2, 3]
+wolves
+   body      [2]
+woman
+   body      [0, 2, 3]
+women
+   body      [0, 2, 3]
+won
+   body      [0, 2, 3]
+wonder
+   body      [3]
+wondered
+   body      [0, 2]
+wonderful
+   body      [0, 1, 3]
+wonderfully
+   body      [3]
+wood
+   body      [0, 1, 2, 3]
+wooden
+   body      [0, 1, 2, 3]
+wool
+   body      [0]
+word
+   body      [0, 2, 3]
+words
+   body      [0, 2, 3]
+wore
+   body      [0, 2]
+work
+   body      [0, 2, 3]
+worked
+   body      [0, 2]
+workers
+   body      [0]
+working
+   body      [0, 3]
+world
+   body      [0, 3]
+worlds
+   body      [0]
+worried
+   body      [0, 1, 2, 3]
+worry
+   body      [0, 2, 3]
+worrying
+   body      [3]
+worse
+   body      [1, 3]
+worship
+   body      [3]
+worshipped
+   body      [3]
+worships
+   body      [3]
+worst
+   body      [0]
+worth
+   body      [3]
+wotton
+   body      [3]
+would
+   body      [0, 1, 2, 3]
+wouldn
+   body      [0]
+wrecked
+   body      [2]
+wrist
+   body      [0, 1]
+write
+   body      [0, 2, 3]
+writer
+   body      [0]
+writes
+   body      [3]
+writing
+   body      [0, 1]
+written
+   body      [0, 2, 3]
+wrong
+   body      [0, 2, 3]
+wrote
+   body      [0, 2, 3]
+yawned
+   body      [3]
+year
+   body      [0, 3]
+years
+   body      [0, 1, 2, 3]
+yellow
+   body      [0, 3]
+yes
+   body      [0, 1, 2, 3]
+yesterday
+   body      [0, 2, 3]
+yet
+   body      [0, 2, 3]
+yon
+   body      [0, 3]
+you
+   body      [0, 1, 2, 3]
+young
+   body      [0, 1, 2, 3]
+younger
+   body      [0, 3]
+your
+   body      [0, 2, 3]
+yours
+   body      [0, 3]
+yourself
+   body      [0, 2, 3]
+yourselves
+   body      [0]
+ 
+   body      [0, 2, 3]
+
+DICTIONARY SIZE: 0 bytes 
+
