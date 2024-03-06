@@ -1,8 +1,4 @@
-COLLECTION SIZE: 1299640 bytes 
-WORDS IN COLLECTION: 48732
-WORDS IN DICTIONARY: 2556
-
- 
+|||||| Zoned Dictionary ||||||
 1984
    title      [0]
 a
@@ -5124,6 +5120,3 @@ yourselves
    body      [0]
  
    body      [0, 2, 3]
-
-DICTIONARY SIZE: 0 bytes 
-
