@@ -1,0 +1,4 @@
+Collection size: 1269 kb;
+Dictionary size: 72.0966796875 kb;
+Words in collection: 48732;
+Words in dictionary: 2556;
