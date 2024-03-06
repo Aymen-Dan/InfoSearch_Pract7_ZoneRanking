@@ -11,16 +11,38 @@ public class Main {
             return;
         }
 
-        while(true) {
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("SEARCH");
-            System.out.println("\nTITLE: ");
-            String title = scanner.nextLine();
-            System.out.println("\nAUTHOR: ");
-            String author = scanner.nextLine();
-            System.out.println("\nBODY: ");
-            String body = scanner.nextLine();
-            dictionary.search(title, author, body);
+        Scanner in = new Scanner(System.in);
+        System.out.println("""
+                0 - Open dictionary.txt;
+                1 - Print statistics in console;
+                2 - Search dictionary.txt
+                -1 - Exit.
+                """);
+
+        System.out.println("\nYour input here: ");
+        int i = in.nextInt();
+
+
+
+        while(i != -1) {
+            switch(i) {
+                case 0:
+
+                case 1:
+
+                case 2:
+
+                System.out.println("Search");
+                System.out.println("\nTITLE: ");
+                String title = in.nextLine();
+                System.out.println("\nAUTHOR: ");
+                String author = in.nextLine();
+                System.out.println("\nBODY: ");
+                String body = in.nextLine();
+                dictionary.search(title, author, body);
+            }
+           //exit condition
+
         }
     }
 }
